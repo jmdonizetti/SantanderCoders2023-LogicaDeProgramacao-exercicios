@@ -22,6 +22,6 @@ calcularBtn.addEventListener('click', () =>{
     const area = base * altura;
 
     //exibindo resultado
-    resultadoDiv.textContent = `A área do retangulo é de ${area.toFixed(1)}²`;
+    resultadoDiv.textContent = `A área do retangulo é de ${area.toFixed(2)}²`;
 
 });
