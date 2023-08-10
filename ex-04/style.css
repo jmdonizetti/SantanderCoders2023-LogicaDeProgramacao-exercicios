@@ -10,6 +10,7 @@ body{
 }
 
 .container{
+    
     display: flex;
     flex-direction: column;
 
@@ -45,7 +46,7 @@ input{
     border: 1px solid rgba(0, 0, 0, 0.527);
 }
 
-#calcular{
+#verificar{
     width: 15%;
     height: 2.3em;
 
@@ -58,16 +59,20 @@ input{
     font-size: 1.2em;
 }
 
-#calcular:hover{
+#verificar:hover{
     cursor: pointer;
     transform: scale(1.1);
     transition: .2s;
     background-color: green;
 }
 
-#resultado{
+#result{
     margin-top: 1em;
     margin-left: 1.5em;
 
     font-size: 1.5em;
+    font-weight: 900;
+    color: green;
+    
+    text-decoration: underline;
 }
