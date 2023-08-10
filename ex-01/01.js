@@ -1,3 +1,5 @@
+//1- Escreva um programa que calcule a área de um retângulo com base no comprimento e largura fornecidos pelo usuário.
+
 //Capturando os elementos do HTML
 
 const baseInput = document.getElementById('base');

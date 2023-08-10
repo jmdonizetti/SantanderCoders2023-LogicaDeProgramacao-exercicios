@@ -1,3 +1,5 @@
+//2- Crie um programa que determine se um número é par ou ímpar utilizando o operador de módulo (%).
+
 //capturando os elementos do HTML
 
 const numeroInput = document.getElementById('numero');

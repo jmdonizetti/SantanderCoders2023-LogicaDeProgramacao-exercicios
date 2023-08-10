@@ -1,3 +1,4 @@
+//3- Escreva uma função que verifique se uma string fornecida pelo usuário contém a palavra "JavaScript".
 
 //Criando a função para verificar se a frase tem a palavra JavaScript
 function verificaPalavra() {
