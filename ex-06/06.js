@@ -1,4 +1,4 @@
-// 6- Escreva um programa que calcule a média dos valores em um array utilizando a função reduce() e length.
+// 6-Escreva um programa que calcule a média dos valores em um array utilizando a função reduce() e length.
 
 //Criando o Array
 const lista = [3, 28, 25, 14, 4];

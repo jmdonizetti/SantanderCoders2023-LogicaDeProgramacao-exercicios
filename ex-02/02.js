@@ -10,7 +10,7 @@ const resultadoDiv = document.getElementById('resultado');
 
 verificaBtn.addEventListener('click', () =>{
     //convertendo a entrada de valores para numeros 
-    const numero = parseFloat(numeroInput.value);
+    const numero = parseInt(numeroInput.value);
 
     //verificando se são valores invalidos
     if(isNaN(numero)) {
