@@ -1,3 +1,5 @@
+//7- Crie uma função que retorne a data e hora atuais no formato legível: "Dia/Mês/Ano Hora:Minuto:Segundo".
+
 function calendario() {
     const data = new Date();
     const dia = data.getDay();

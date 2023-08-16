@@ -1,3 +1,5 @@
+//8- Implemente um programa que encontre o maior valor em um array usando a função Math.max().
+
 const lista1 = [1,2,3,4,5];
 const lista2 = [6,7,8,9,10];
 const lista3 = [11,12,13,14,15];
