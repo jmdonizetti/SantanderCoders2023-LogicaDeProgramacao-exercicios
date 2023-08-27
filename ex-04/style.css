@@ -46,7 +46,7 @@ input{
     border: 1px solid rgba(0, 0, 0, 0.527);
 }
 
-#verificar{
+button{
     width: 15%;
     height: 2.3em;
 
@@ -59,7 +59,7 @@ input{
     font-size: 1.2em;
 }
 
-#verificar:hover{
+button:hover{
     cursor: pointer;
     transform: scale(1.1);
     transition: .2s;

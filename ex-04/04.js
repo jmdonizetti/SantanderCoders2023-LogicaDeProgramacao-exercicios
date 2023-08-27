@@ -22,4 +22,4 @@ function compareStrings() {
 }
 
 //capturando o button e adicionando o evento de click, para quando o usuario clicar em verificar mostrar o resultado na tela.
-document.getElementById('verificar').addEventListener('click', compareStrings)
+//document.getElementById('verificar').addEventListener('click', compareStrings)
